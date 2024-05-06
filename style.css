@@ -1,0 +1,138 @@
+body{
+    font-size: 20px;
+    background-color: rgb(208, 227, 255);
+}
+
+div{
+    text-align: center;
+}
+
+#elso{
+    margin-top: 30px;
+}
+
+.modal-body{
+    text-align: left;
+}
+
+.modal-content{
+    background-color: rgb(181, 211, 255);
+
+}
+.modal-header{
+    border-bottom: 1px solid rgb(61, 110, 173);
+}
+
+.modal-footer{
+    border-top: 1px solid rgb(61, 110, 173);
+}
+
+.modal_gombok{
+    margin: 5px;
+    width: 200px;
+    height: 70px;
+    background-color: rgb(92, 162, 255);
+    border-color:  rgb(61, 110, 173);
+}
+
+#kereses_ev, #kereses_szemely{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+#feladat2, #evlista, #feladat4{
+    margin-left: 30px;
+}
+
+#lenyilo{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+#gombok, .dobozok{
+    text-align: left;
+    margin-left: 30px;
+}
+
+button{
+    margin: 5px;
+}
+
+#szemelyek{
+    visibility: hidden;
+}
+
+#none, #none2{
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.kategoria_gombok{
+    background-color: rgb(121, 179, 255);
+    border-color:  rgb(61, 110, 173);
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 50px;
+    width: 150px;
+}
+
+.kategoria_gombok:hover{
+    background-color: rgb(155, 198, 255);
+    border-color:  rgb(61, 110, 173);
+}
+
+select{
+    background-color: rgb(155, 198, 255);
+    padding: 5px;
+}
+
+input{
+    background-color: rgb(155, 198, 255);
+}
+
+.kereses_gomb{
+    background-color: rgb(121, 179, 255);
+    border-color:  rgb(61, 110, 173);
+}
+
+.kereses_gomb:hover{
+    background-color: rgb(155, 198, 255);
+    border-color:  rgb(61, 110, 173);
+}
+
+label{
+    font-weight: bold;
+
+}
+
+#szemelyek, tr, td{
+    background-color: rgb(139, 185, 255);
+    border: 2.5px solid rgb(31, 89, 175);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+th{
+    background-color: rgb(107, 165, 252);
+    border: 2.5px solid rgb(31, 89, 175);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+nav{
+    background-color: rgb(0, 87, 218);
+}
+
+#nav-cim{
+    color: rgb(208, 227, 255);
+}
+
+.nav-link{
+    color: rgba(164, 200, 255, 0.781);
+}
+
+.nav-link:hover{
+    color: white;
+}
